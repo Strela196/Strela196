@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Strela196
+- 👋 Hi, I’m Urban Mandal
 - 👀 I’m interested in ... web development, data science, software engineering, machine learning and cyber security 
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... web developing, data science, software engineering, machine learning and cyber security 
